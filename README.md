@@ -6,7 +6,17 @@ _If anyone can show me a super simple way to keep directories from separate repo
 
 ***
 
+Please check [github / fazzaan / keyboard-layouts / Layout - EN-UK - NewEng](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng) for latest uploads.
+
 # NEWENG UPDATES CHANGELOG
+### 3rd August 12025
+Latest keyboard layout, version 7.1
+
+Download from my [keyboard layouts repo](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng/ne7v1orthoNum).
+
+<img width="1830" height="893" alt="image" src="https://github.com/user-attachments/assets/05d45e97-6788-406c-a990-5a823e52fc89" />
+
+
 ### 30th June 12025
 * Changed Latin Kay to Greek Kappa (using Greek unicode glyph points too).
   * K k → Κ κ
