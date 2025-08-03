@@ -12,7 +12,8 @@ Please check [github / fazzaan / keyboard-layouts / Layout - EN-UK - NewEng](htt
 ### 3rd August 12025
 Latest keyboard layout, version 7.1
 
-Download from my [keyboard layouts repo](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng/ne7v1orthoNum).
+* Download from my [keyboard layouts repo](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng/ne7v1orthoNum).  
+* View [typing guide (Figma sheet)](https://www.figma.com/design/UjxmmTlTgCext8ZQxvHaRP/Keyboard-Layout---NewEng-v7.1?node-id=0-1&t=gHOrmVUMCXmkkYNk-1).
 
 <img width="1830" height="893" alt="image" src="https://github.com/user-attachments/assets/05d45e97-6788-406c-a990-5a823e52fc89" />
 
