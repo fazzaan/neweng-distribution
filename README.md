@@ -6,7 +6,7 @@ _If anyone can show me a super simple way to keep directories from separate repo
 
 ***
 
-# NEWENG CHANGELOG
+# NEWENG UPDATES CHANGELOG
 ### 30th June 12025
 * Changed Latin Kay to Greek Kappa (using Greek unicode glyph points too).
   * K k → Κ κ
