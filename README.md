@@ -8,6 +8,15 @@ _If anyone can show me a super simple way to keep directories from separate repo
 
 Please check [github / fazzaan / keyboard-layouts / Layout - EN-UK - NewEng](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng) for latest uploads.
 
+# NewEng Conscript (Orthography)
+### How to use NewEng Orthography
+* Visit my gitbook website to learn all about it
+
+### How to type NewEng
+* NewEng keyboard layout **map**
+* [NewEng keyboard layout **to install**](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng) -- Latest version 7.1 ([ne7v1](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng/ne7v1orthoNum))
+* NewEng fonts -- check my fonts portfolio on gitbook, or search through my font repositories
+
 # NEWENG UPDATES CHANGELOG
 ### 3rd August 12025
 Latest keyboard layout, version 7.1
